@@ -26,7 +26,7 @@ We think open data, open source, and open strategy win over proprietary solution
 
 ## Overview
 
-pelias-whosonfirst is a tool used for importing data from the [Who's On First](https://whosonfirst.org/) project from local files into a Pelias ElasticSearch store.
+pelias-whosonfirst is a tool used for importing data from the [Who's On First](https://whosonfirst.org/) project from local files into a Pelias OpenSearch store.
 
 ## Requirements
 
